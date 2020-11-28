@@ -686,9 +686,9 @@
           </li>
           <li class="nav-header">Action</li>
           <li class="nav-item">
-            <a href="login" class="nav-link">
+            <a href="masuk" class="nav-link">
               <i class="nav-icon far fa-circle text-info"></i>
-              <p>Logout</p>
+              <p>Keluar</p>
             </a>
           </li>
         </ul>
