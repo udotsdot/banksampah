@@ -18,7 +18,7 @@
                     <h3>TPS 3R (TEMPAT PENGELOLAAN SAMPAH REUSE REDUCE RECYCLE)</h3>
                     <br>
                     <p>Latar belakang Tingkat pertumbuhan penduduk yang cepat akan menambah beban yang tidak ringan bagi suatu kota dalam penyiapan infrastruktur baru, seperti pendidikan, kesehatan,serta</p>
-                    <a type="button" class="btn btn-light" href="<?= base_url('konten/tps3r'); ?>">READ MORE</a>
+                    <a type="button" class="btn btn-success" href="<?= base_url('konten/tps3r'); ?>">READ MORE</a>
                 </div>
             </div>
             </div>
