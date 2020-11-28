@@ -3,13 +3,12 @@
 <body class="mt-5">
     <div class="jumbotron jumbotron-fluid">
         <div class="container text-center">
-            <!-- <img src="<?= base_url('assets'); ?>/hash.jpg" width="25%" class="rounded-circle img-thumbnail"> -->
             <h1 class="display-4">Tentang <br> Bank Sampah Jejama Secancanan</h1>
         </div>
     </div>
 
     <section id="about" class="about mt-5">
-        <div class="contrainer">
+        <div class="container">
             <div class="col text-center">
                 <h1>TUJUAN</h1>
                 <h6>Tujuan Didirikannya Bank Sampah</h6>

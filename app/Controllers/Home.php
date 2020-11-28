@@ -51,6 +51,8 @@ class Home extends BaseController
 
 	public function admin()
 	{
+		echo view('admin/header_admin');
 		echo view('admin');
+		echo view('admin/footer_admin');
 	}
 }
